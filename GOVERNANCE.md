@@ -1,6 +1,6 @@
 # Atlantis Governance
 
-**Atlantis** is committed to building an open, inclusive, productive, and self-governing community focused on building a high-quality infrastructure orchestration system. The community is governed by this document to define how the community should work together to achieve this goal.
+**Atlantis** is committed to building an open, inclusive, productive, and self-governing community focused on building a high-quality infrastructure orchestration system. This document governs the community and defines how it should work together to achieve this goal.
 
 Atlantis follows a two-tier governance model. The higher tier comprises the Atlantis Steering Committee, responsible for the project's overall health. [Maintainers](#Maintainer), [Core-Contributors](#Core-Contributor), and [Members](#Member) make up the lower tier. They are the main contributors to one or more repositories within the overall project.
 
@@ -37,7 +37,7 @@ Members are continuously active contributors in the community. They can have iss
 
 #### Requirements
 - Enabled two-factor authentication on their GitHub account.
-- Have joined the Atlantis slack channel.
+- Have joined the Atlantis Slack channel.
 - Have read the contributor guide
 - Are actively contributing to 1 or more repositories in the Atlantis GitHub organization. Examples include:
   - opening issues
@@ -45,7 +45,7 @@ Members are continuously active contributors in the community. They can have iss
   - engaging in discussions on issues, pull requests, Slack, etc.
   - attending community meetings
 - Sponsored by 2 Atlantis members. Note the following requirements for sponsors:
-  - Sponsors must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating on issues, etc.
+  Sponsors must interact closely with prospective members, e.g., reviewing code/design/proposal, coordinating on issues, etc.
   - Sponsors must be core-contributors or maintainers in at least one OWNERS file within one of the Atlantis GitHub organizations.
   - Sponsors must be from multiple member companies to demonstrate integration across community.
 
@@ -69,7 +69,7 @@ Once you've met the requirements, do the following steps:
 - Responsive to issues and PRs assigned to them
 - Responsive to mentions of subprojects they are members of
 - Active owner of code they have contributed (unless ownership is explicitly transferred)
-  - Code is well tested
+  - Code is well-tested
   - Tests consistently pass
   - Addresses bugs or issues discovered after code is accepted
 - Members are welcome and encouraged to review PRs and proposals.
@@ -94,7 +94,7 @@ Atlantis project.
 
 #### Requirements
 
-The following apply to the part of codebase for which one would be an approver in an `OWNERS` file.
+The following applies to the part of the codebase for which one would be an approver in an `OWNERS` file.
 
 - Member for at least 3 months
 - Author of at least 3 substantial PRs to the codebase, with the
@@ -103,19 +103,19 @@ The following apply to the part of codebase for which one would be an approver i
 - Exhibiting sound technical judgment through PR contributions
 - Exhibiting sound technical judgment through PR reviews
 - Sponsored by a Maintainer
-  - With no objections from other Maintainers or Steering Commitee
+  - With no objections from other Maintainers or Steering Committee
   - Done through PR to update the OWNERS file
 
 
 #### Responsibilities and privileges
 
-The following apply to the part of codebase for which one would be a core-contributor
+The following applies to the part of the codebase for which one would be a core-contributor
 in an `OWNERS` file.
 
 - Core-contributor status may be a precondition to accepting large code contributions
-- Demonstrate sound technical judgement
+- Demonstrate sound technical judgment
 - Responsible for project quality control via code reviews
-  - Focus on holistic acceptance of contribution such as dependencies with other features, backwards / forwards
+  - Focus on holistic acceptance of contributions such as dependencies with other features, backward / forwards
     compatibility, API and flag definitions, etc
 - Expected to be responsive to review requests (inactivity may result in suspension until active again)
 - Mentor Members
@@ -124,7 +124,7 @@ in an `OWNERS` file.
 - Periodically attend the recurring community meetings
 - In general, continue to be willing to spend at least 5% of their time working on Atlantis (~0.25 business days per week)
 
-The current list of core-contributors for each repository is published and updated in each repo’s OWNERS.md file.
+Each repository's current list of core-contributors is published and updated in each repo’s OWNERS.md file.
 
 ### Maintainer
 
@@ -154,7 +154,7 @@ Responsibilities include:
 - Periodically attend the recurring steering committee meetings to provide input
 - In general, continue to be willing to spend at least 25% of their time working on Atlantis (~1.25 business days per week)
 
-The current list of maintainers for each repository is published and updated in each repo’s OWNERS.md file.
+Each repository's current list of maintainers is published and updated in each repo’s OWNERS.md file.
 
 #### Removing a core-contributor or maintainer
 
@@ -167,11 +167,11 @@ In general, it is preferred that technical issues and team membership are amicab
 Issues can be resolved or voted on at different scopes:
 
 * **Repository**: When an issue or conflict only affects a single repository, then the maintainer team for that repository should resolve or vote on the issue. This includes technical decisions as well as team membership.
-* **Organization**: If an issue or conflict affects multiple repositories or the Crossplane organizations and community at large, the steering committee should resolve or vote on the issue.
+* **Organization**: If an issue or conflict affects multiple repositories or the Atlantis organizations and community at large, the steering committee should resolve or vote on the issue.
 
 ### Issue Voting Process
 
-The issue voting process is usually a simple majority in which each entity within the voting scope gets a single vote. The following decisions require a super majority (at least 2/3 of votes), all other decisions and changes require only a simple majority:
+The issue voting process is usually a simple majority in which each entity within the voting scope gets a single vote. The following decisions require a super majority (at least 2/3 of votes). All other decisions and changes require only a simple majority:
 
 * Updates to governance by the steering committee
 * Additions and removals of maintainers by the repository’s current maintainer team
@@ -181,12 +181,12 @@ For organization scope voting, repository maintainers do not have a vote in this
 
 For formal votes, a specific statement of what is being voted on should be added to the relevant GitHub issue or PR. Voting entities should indicate their yes/no vote on that issue or PR.
 
-After a suitable period of time (goal is by 5 business days), the votes will be tallied and the outcome noted. If any voting entities are unreachable during the voting period, postponing the completion of the voting process should be considered.
+The votes will be tallied after a suitable period of time (the goal is 5 business days), and the outcome noted. If any voting entities are unreachable during the voting period, postponing the completion of the voting process should be considered.
 
 ## Updating Governance
 
-This governance will likely be a living document and its policies will therefore need to be updated over time as the community grows. The steering committee has full ownership of this governance and only the committee may make updates to it. Changes can be made at any time, but a super majority (at least 2/3 of votes) is required to approve any updates.
+This governance will likely be a living document, and its policies will, therefore, need to be updated over time as the community grows. The steering committee has full ownership of this governance and only the committee may make updates to it. Changes can be made at any time, but a super-majority (at least 2/3 of votes) is required to approve any updates.
 
 ## Credits
 
-Sections of these documents have been borrowed from (Argoproj)[https://github.com/argoproj/argoproj/blob/main/community/GOVERNANCE.md] and (Crossplane)[https://github.com/crossplane/crossplane/blob/master/GOVERNANCE.md] projects.
+Sections of these documents have been borrowed from [Argoproj](https://github.com/argoproj/argoproj/blob/main/community/GOVERNANCE.md) and [Crossplane](https://github.com/crossplane/crossplane/blob/master/GOVERNANCE.md) projects.

@@ -1,15 +1,14 @@
 # Atlantis Governance
 
-**Atlantis** is committed to building an open, inclusive, productive, and self-governing community focused on building a high-quality infrastructure orchestration system. The
-community is governed by this document with the goal of defining how the community should work together to achieve this goal.
+**Atlantis** is committed to building an open, inclusive, productive, and self-governing community focused on building a high-quality infrastructure orchestration system. The community is governed by this document to define how the community should work together to achieve this goal.
 
-Atlantis follows a two-tier governance model. The higher tier is made up of the Atlantis Steering Committee, which is responsible for the project's overall health. Maintainers and Members make up the lower tier, and they are the main contributors to one or more repositories within the overall project.
+Atlantis follows a two-tier governance model. The higher tier comprises the Atlantis Steering Committee, responsible for the project's overall health. [Maintainers](#Maintainers), [Core-Contributors](#Core-Contributors), and [Members](#Members) make up the lower tier. They are the main contributors to one or more repositories within the overall project.
 
 The governance policies defined here apply to all repositories in the runatlantis GitHub organization.
 
 ## Atlantis Steering Committee
 
-The Atlantis project has a project steering committee consisting of 5 members, with a maximum of 1 member from any single organization. The steering committee in Atlantis has a final say in any decision concerning the Atlantis project, with the exceptions of deciding steering committee membership, and changes to project governance. See Changes in Project Steering Committee Membership and Changes in Project Governance.
+The Atlantis project has a project steering committee consisting of 5 members, with a maximum of 1 member from any single organization. The steering committee in Atlantis has a final say in any decision concerning the Atlantis project, with the exceptions of deciding steering committee membership, and changes to project governance. See [Updating Governance](#Updating-Governance).
 
 The initial steering committee will be nominated by the current maintainers of the project in order to ensure continuity of the project charter and vision as additional members come on board. Once the terms of the initial committee members expire, new members will be selected through the election process outlined below.
 

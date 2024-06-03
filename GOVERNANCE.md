@@ -89,7 +89,7 @@ holistic acceptance of a contribution including: backwards / forwards
 compatibility, adhering to API and flag conventions, subtle performance and
 correctness issues, interactions with other parts of the system, etc.
 
-**Defined by:** *approvers* entry in an OWNERS file in a repo owned by the
+**Defined by:** *Core contributors* entry in an OWNERS file in a repo owned by the
 Atlantis project.
 
 #### Requirements

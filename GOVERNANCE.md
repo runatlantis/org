@@ -10,7 +10,7 @@ The governance policies defined here apply to all repositories in the [`runatlan
 
 The Atlantis project has a steering committee of 5 members, with a maximum of 1 member from any organization. The steering committee has the final say in any decision concerning the Atlantis project, with the exceptions of deciding steering committee membership and changes to project governance. See [Updating Governance](#Updating-Governance).
 
-The initial steering committee will be nominated by the current maintainers of the project in order to ensure continuity of the project charter and vision as additional members come on board. Once the terms of the initial committee members expire, new members will be selected through the election process outlined below.
+The project's current maintainers will nominate the initial steering committee to ensure the continuity of the project charter and vision as additional members come on board. Once the terms of the initial committee members expire, new members will be selected through the election process outlined below.
 
 A list of the steering committee will be published once decided and voted on.
 

@@ -4,7 +4,7 @@
 
 Atlantis follows a two-tier governance model. The higher tier comprises the Atlantis Steering Committee, which is responsible for the project's overall health. [Maintainers](#Maintainer), [Core-Contributors](#Core-Contributor), and [Members](#Member) make up the lower tier. They are the main contributors to one or more repositories within the overall project.
 
-The governance policies defined here apply to all repositories in the runatlantis GitHub organization.
+The governance policies defined here apply to all repositories in the [`runatlantis`](https://github.com/runatlantis) GitHub organization.
 
 ## Atlantis Steering Committee
 

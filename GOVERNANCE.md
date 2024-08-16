@@ -16,7 +16,7 @@ A list of the steering committee members will be published once it is decided up
 
 Any decision made must not conflict with CNCF policy.
 
-The maximum term length of each steering committee member is two year, with no term limit restriction.
+Each steering committee member's maximum term length is two years, with no term limit restriction.
 
 Voting for steering committee members is open to all current steering committee members and maintainers.
 

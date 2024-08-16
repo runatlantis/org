@@ -129,7 +129,7 @@ Each repository's current list of core-contributors is published and updated in 
 
 ### Maintainer
 
-Each repository in the Atlantis organization are allowed their own unique set of maintainers. Maintainers have the most experience with the given repo and are expected to have the knowledge and insight to lead its growth and improvement.
+Each Atlantis organization repository is allowed a unique set of maintainers. Maintainers have the most experience with the given repository and are expected to have the knowledge and insight to lead its growth and improvement.
 
 New maintainers and subproject maintainers must be nominated by an existing maintainer and must be elected by a supermajority of existing maintainers. Likewise, maintainers can be removed by a supermajority of the existing maintainers or can resign by notifying one of the maintainers.
 

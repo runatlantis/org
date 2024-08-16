@@ -12,7 +12,7 @@ The Atlantis project has a steering committee of 5 members, with a maximum of 1 
 
 The project's current maintainers will nominate the initial steering committee to ensure the continuity of the project charter and vision as additional members come on board. Once the terms of the initial committee members expire, new members will be selected through the election process outlined below.
 
-A list of the steering committee will be published once decided and voted on.
+A list of the steering committee members will be published once it is decided upon and voted on.
 
 Any decision made must not conflict with CNCF policy.
 

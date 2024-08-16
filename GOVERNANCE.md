@@ -22,7 +22,7 @@ Voting for steering committee members is open to all current steering committee 
 
 ## Repository Governance 
 
-The Atlantis project consists of multiple repositories that are published and maintained on GitHub. Each repository will be subject to the same overall governance model, but will be allowed to have different teams of contributors (“members”, “core-contributor”, and “maintainers”) with permissions and access to the repository. This increases diversity of people in the Atlantis organization, and also increases the velocity of code changes.
+The Atlantis project consists of multiple repositories published and maintained on GitHub. Each repository will be subject to the same overall governance model but will be allowed to have different teams of contributors (“members,” “core-contributor,” and “maintainers”) with permissions and access to the repository. This will increase the diversity of people in the Atlantis organization and also increase the velocity of code changes.
 
 ### Member
 

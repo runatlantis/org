@@ -144,7 +144,7 @@ Responsibilities include:
 - Seek review and obtain approval from the steering committee when making a change to central architecture that will have broad impact across multiple repositories
 - Contribute non-trivial pull requests
 - Perform code reviews on other's pull requests
-- Ensure that proposed changes to your repository adhere to the established standards, best practices, and guidelines, and that the overall quality and integrity of the code base is upheld.
+- Ensure that proposed changes to your repository adhere to the established standards, best practices, and guidelines, and that the overall quality and integrity of the code base is upheld
 - Add and remove maintainers to the repository as described below
 - Approve and merge pull requests into the code base
 - Regularly triage GitHub issues. The areas of specialization possibly listed in OWNERS.md can be used to help with routing an issue/question to the right person.

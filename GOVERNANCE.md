@@ -1,6 +1,6 @@
 # Atlantis Governance
 
-**Atlantis** is committed to building an open, inclusive, productive, and self-governing community focused on building a high-quality infrastructure orchestration system. This document governs the community and defines how it should work together to achieve this goal.
+**Atlantis** is committed to building an open, inclusive, productive, and self-governing community focused on creating a high-quality infrastructure orchestration system. This document governs the community and defines how it should work together to achieve this goal.
 
 Atlantis follows a two-tier governance model. The higher tier comprises the Atlantis Steering Committee, responsible for the project's overall health. [Maintainers](#Maintainer), [Core-Contributors](#Core-Contributor), and [Members](#Member) make up the lower tier. They are the main contributors to one or more repositories within the overall project.
 

@@ -36,7 +36,8 @@ Members are continuously active contributors in the community. They can have iss
 - Allows issues to be assigned to the user
 
 #### Requirements
-- Enabled two-factor authentication on their GitHub account.
+
+- Enabled two-factor authentication on their GitHub account
 - Have joined the Atlantis Slack channel.
 - Have read the contributor guide
 - Are actively contributing to 1 or more repositories in the Atlantis GitHub organization. Examples include:

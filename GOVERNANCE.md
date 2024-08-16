@@ -167,7 +167,7 @@ In general, it is preferred that technical issues and team membership are amicab
 Issues can be resolved or voted on at different scopes:
 
 * **Repository**: When an issue or conflict only affects a single repository, then the maintainer team for that repository should resolve or vote on the issue. This includes technical decisions as well as team membership.
-* **Organization**: If an issue or conflict affects multiple repositories or the Atlantis organizations and community at large, the steering committee should resolve or vote on the issue.
+* **Organization**: If an issue or conflict affects multiple repositories or the Atlantis organizations and community at large, the steering committee must resolve or vote on the issue.
 
 ### Issue Voting Process
 
